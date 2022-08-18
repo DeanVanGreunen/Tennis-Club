@@ -2,6 +2,10 @@
 
 Tennis match percentage calculation application based on the Name of a player against another player
 
+# Development and Usage
+
+please run `npm install` inorder for this app to run, then use the below **commands** to test and use this application
+
 # Commands
 These are the supported commands
 ```
