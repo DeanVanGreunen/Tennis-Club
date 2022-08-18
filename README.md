@@ -31,5 +31,5 @@ The following command will take in a file path as the 2nd argument, you may use 
 
 # Author and License Details
 
-- Created nby `Dean Van Greunen`
+- Created by `Dean Van Greunen`
 - License `GPL-3.0-or-later` assigned to this project and source code
