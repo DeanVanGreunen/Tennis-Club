@@ -1,0 +1,15 @@
+{
+  "name": "good-match",
+  "version": "1.0.0",
+  "description": "Match percentage calculation application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tennis",
+    "Club"
+  ],
+  "author": "Dean Van Greunen",
+  "license": "GPL-3.0-or-later"
+}
